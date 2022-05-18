@@ -1,6 +1,6 @@
 {
-  "name": "unicodeveloper/laravel-paystack",
-  "description": "A Laravel Package for Paystack",
+  "name": "tetranybles/paystack",
+  "description": "A Laravel Package for Paystack clone",
   "keywords": [
     "php",
     "github",
